@@ -1,0 +1,54 @@
+.nav_item > a:hover {
+    background-color: #a2c4fd;
+}
+
+.active {
+    background-color: #5a7fac;
+}
+
+.nav-icon {
+    margin-right: 2px;
+}
+
+.container {
+    max-width: 90%;
+}
+
+.thinker-img {
+    padding-top: 55px;
+}
+
+.text {
+    font-family: 'Open Sans', sans-serif;
+    padding: 60px 10px;
+    font-size: 2.5vh;
+    text-align: center;
+}
+
+.text1 {
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px 10px;
+    font-weight: 600;
+    font-size: 5.5vh;
+    text-align: center;
+}
+
+.segregate {
+    padding-left: 50%;
+    margin: 35px 0px 35px 0px;
+    background-color: #a2c4fd;
+}
+
+.image {
+    max-width: 170px;
+    max-height: 200px;
+}
+
+.card-color {
+    background-color: #5a7fac;
+    color: white;
+}
+
+.modal-header {
+    background-color: #5a7fac;
+}
